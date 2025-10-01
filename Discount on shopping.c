@@ -1,5 +1,3 @@
-//Zainab Kinza Sheikh  (CT-059)
-
 #include<stdio.h>
 int main(void)
 {
@@ -34,5 +32,6 @@ printf("You saved: Rs.%f\n", discount);
 printf("Your discounted amount is: Rs.%f\n", amountafterdiscount);
 
 return 0;
+
 
 }
